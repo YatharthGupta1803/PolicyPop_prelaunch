@@ -1,4 +1,3 @@
-import React from 'react'
 import logo from '../assets/logo.png' 
 import widget from '../assets/Logo-login.png'
 import Email from './Email'
@@ -6,7 +5,7 @@ import X from '../assets/X.svg'
 import Instgram from '../assets/Instagram.svg'
 import Linkd from '../assets/Linkd.svg'
 
-import { CheckCheck , Zap ,  Languages, AlarmClockCheck, Scale, StickyNote, Cuboid, RectangleVertical, GitCommitVertical, ShieldCheck, LockKeyhole, UsersRound, Globe, Instagram, Twitter, Linkedin} from 'lucide-react';
+import { CheckCheck , Zap ,  Languages, AlarmClockCheck, Scale, StickyNote, GitCommitVertical, ShieldCheck, LockKeyhole, UsersRound, Globe} from 'lucide-react';
 function mainp() {
   return (
     <div>

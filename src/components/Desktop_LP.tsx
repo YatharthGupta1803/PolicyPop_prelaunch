@@ -1,13 +1,10 @@
-import React from 'react'
-
-
 import EmailSignup from "../components/Emailsignup";
 
 import Logo from '../assets/logo1.png'
 
 import footer from '../assets/footer-text.svg'
 import { FaInstagram, FaLinkedin, FaTwitter } from "react-icons/fa";
-import { BookOpen, FileQuestionMark, Languages, LibraryBig, LightbulbIcon, MessageSquareDot, Scale, Shield, StickyNote, ThumbsUp, Users } from 'lucide-react'
+import { FileQuestionMark, Languages, LibraryBig, LightbulbIcon, MessageSquareDot, Scale, StickyNote, ThumbsUp } from 'lucide-react'
 function Desktop_LP() {
   return (
     <div>
