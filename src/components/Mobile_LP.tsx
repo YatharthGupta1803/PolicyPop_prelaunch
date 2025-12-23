@@ -2,7 +2,7 @@ import logo from '../assets/logo.png'
 import widget from '../assets/Logo-login.png'
 import Email from './Email'
 import X from '../assets/X.svg'
-import Instgram from '../assets/Instagram.svg'
+import Instgram from '../assets/instagram.svg'
 import Linkd from '../assets/Linkd.svg'
 
 import { CheckCheck , Zap ,  Languages, AlarmClockCheck, Scale, StickyNote, GitCommitVertical, ShieldCheck, LockKeyhole, UsersRound, Globe} from 'lucide-react';
